@@ -22,3 +22,4 @@ Stay tuned for updates as we continue to develop this example!
 Here's a screenshot of the chessboard in its current state:
 
 ![Chessboard Example](ScreenShots/Screenshot_1711561536.png)
+![Demo](ScreenShots/2024-03-2915-35-18-ezgif.com-crop.gif)
